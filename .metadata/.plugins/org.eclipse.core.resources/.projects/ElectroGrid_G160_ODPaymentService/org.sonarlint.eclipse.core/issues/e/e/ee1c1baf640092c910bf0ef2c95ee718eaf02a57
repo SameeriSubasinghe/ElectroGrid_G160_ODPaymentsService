@@ -1,0 +1,52 @@
+
+T
+java:S1643o"Use a StringBuilder instead.(æ“µüÿÿÿÿ8¬¤æíŠ0H¥RMINORZ
+CODE_SMELL
+G
+java:S1643f"Use a StringBuilder instead.(‚ÎÓëHRMINORZ
+CODE_SMELL
+L
+java:S1643g"Use a StringBuilder instead.(ê¾É¯ÿÿÿÿÿHRMINORZ
+CODE_SMELL
+t
+java:S1192f"FDefine a constant instead of duplicating this literal "</td>" 6 times.(‚ÎÓëHRCRITICALZ
+CODE_SMELL
+Y
+java:S2115")Add password protection to this database.(ÉÄìûHRBLOCKERZVULNERABILITY
+{	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÑøîHRMINORZ
+CODE_SMELL
+r
+java:S2095W"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿHRBLOCKERZBUG
+|	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æã âHRMINORZ
+CODE_SMELL
+{
+java:S2095º"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ş¿îğúÿÿÿÿHRBLOCKERZBUG
+€	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëºÚüùÿÿÿÿH	RMINORZ
+CODE_SMELL
+L
+java:S1643h"Use a StringBuilder instead.(ÿ¨ÚıÿÿÿÿHRMINORZ
+CODE_SMELL
+|	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¢ò¯HRMINORZ
+CODE_SMELL
+L
+java:S1643i"Use a StringBuilder instead.(İäÕÏøÿÿÿÿHRMINORZ
+CODE_SMELL
+L
+java:S1643j"Use a StringBuilder instead.(×•ÏÒşÿÿÿÿHRMINORZ
+CODE_SMELL
+{
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ş¿îğúÿÿÿÿHRBLOCKERZBUG
+]
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHRMAJORZ
+CODE_SMELL
+F
+java:S1643k"Use a StringBuilder instead.(ğƒäHRMINORZ
+CODE_SMELL
+z
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ş¿îğúÿÿÿÿHRBLOCKERZBUG
+€	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÊºûÿÿÿÿH
+RMINORZ
+CODE_SMELL
+m
+java:S18548":Remove this useless assignment to local variable "output".(Œ·®‹8ŠßùíŠ0H¬RMAJORZ
+CODE_SMELL

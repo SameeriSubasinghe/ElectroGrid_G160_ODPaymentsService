@@ -1,0 +1,102 @@
+/**
+ * 
+ */
+ 
+ $(document).ready(function() 
+{ 
+if ($("#alertSuccess").text().trim() == ""){ 
+ $("#alertSuccess").hide(); 
+ } 
+ $("#alertError").hide(); 
+}); 
+
+
+// SAVE ============================================
+$(document).on("click", "#btnSave", function(event) 
+{ 
+
+// Clear alerts---------------------
+ $("#alertSuccess").text(""); 
+ $("#alertSuccess").hide(); 
+ $("#alertError").text(""); 
+ $("#alertError").hide(); 
+
+// Form validation-------------------
+var status = validateODPaymentsForm(); 
+if (status != true) 
+ { 
+ $("#alertError").text(status); 
+ $("#alertError").show(); 
+ return; 
+ } 
+ 
+// If valid------------------------
+ $("#formItem").submit(); 
+});
+
+// UPDATE==========================================
+$(document).on("click", ".btnUpdate", function(event) 
+{ 
+ $("#hidOdpsIDSave").val($(this).closest("tr").find('#hidOdpsIDUpdate').val()); 
+ $("#ODCode").val($(this).closest("tr").find('td:eq(0)').text()); 
+ $("#dueAmount").val($(this).closest("tr").find('td:eq(1)').text()); 
+ $("#dueMonthsNo").val($(this).closest("tr").find('td:eq(2)').text()); 
+ $("#dueMonths").val($(this).closest("tr").find('td:eq(3)').text()); 
+ $("#accountNo").val($(this).closest("tr").find('td:eq(4)').text()); 
+ $("#IsSuspend").val($(this).closest("tr").find('td:eq(5)').text()); 
+}); 
+
+// CLIENT-MODEL================================================================
+function validateODPaymentsForm() 
+{ 
+	
+// OverDue Payment Code
+if ($("#ODCode").val().trim() == "") 
+ { 
+ return "Insert Overdue Payment Code."; 
+ } 
+ 
+
+// OverDue Amount
+if ($("#dueAmount").val().trim() == "") 
+ { 
+ return "Insert Due Amount."; 
+ } 
+ 
+// is numerical value
+var tmpdueAmount = $("#dueAmount").val().trim(); 
+if (!$.isNumeric(tmpdueAmount)) 
+ { 
+ return "Insert a numerical value for Item Price."; 
+ } 
+// convert to decimal price
+ $("#dueAmount").val(parseFloat(tmpdueAmount).toFixed(2)); 
+ 
+ 
+ //No of DueMonths
+if ($("#dueMonthsNo").val().trim() == "") 
+ { 
+ return "Insert No of Due Months."; 
+ } 
+ 
+// is numerical value
+var tmpdueMonthsNo = $("#dueMonthsNo").val().trim(); 
+if (!$.isNumeric(tmpdueMonthsNo)) 
+ { 
+ return "Insert a numerical value for Item Price."; 
+ } 
+ 
+ 
+ // Due Months
+if ($("#dueMonths").val().trim() == "") 
+ { 
+ return "Insert Due Months."; 
+ } 
+ 
+// Account Number
+if ($("#accountNo").val().trim() == "") 
+ { 
+ return "Insert Item Account Number."; 
+ } 
+return true; 
+}

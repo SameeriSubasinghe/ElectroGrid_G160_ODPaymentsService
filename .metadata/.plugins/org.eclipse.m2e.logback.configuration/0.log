@@ -696,3 +696,128 @@
 2022-05-10 21:36:45,287 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
 2022-05-10 21:36:45,288 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-05-10 21:36:45,289 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:09:07,043 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:09:07,043 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:09:07,044 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:09:07,045 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:09:12,289 [Worker-114: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:09:12,289 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:09:12,290 [Worker-114: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:09:12,290 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:16:50,214 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:16:50,214 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:16:50,216 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:16:50,216 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:18:01,580 [Worker-117: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:18:01,580 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:18:01,581 [Worker-117: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:18:01,581 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:18:09,357 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:18:09,367 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:18:09,369 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:18:09,370 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:21:13,118 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:21:13,119 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:21:13,119 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:21:13,120 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:46:16,477 [Worker-134: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:46:16,478 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:46:16,479 [Worker-134: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:46:16,480 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:51:23,364 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:51:23,365 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:51:23,366 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:51:23,366 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:52:23,786 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:52:23,786 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:52:23,787 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:52:23,788 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 22:59:47,742 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:59:47,743 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 22:59:47,744 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 22:59:47,746 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:00:44,844 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:00:44,845 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:00:44,845 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:00:44,846 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:18:02,807 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:18:02,807 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:18:02,808 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:18:02,808 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:19:29,512 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:19:29,512 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:19:29,513 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:19:29,513 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:25:59,613 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:25:59,624 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:25:59,629 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:25:59,630 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:26:01,100 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-10 23:30:33,123 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:30:33,124 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:30:33,125 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:30:33,125 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:30:50,672 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:30:50,672 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:30:50,674 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:30:50,674 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:31:30,988 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:31:30,988 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:31:30,989 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:31:30,990 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:31:47,450 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:31:47,451 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:31:47,452 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:31:47,452 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:32:33,353 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:32:33,354 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:32:33,355 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:32:33,355 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:33:19,304 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:33:19,304 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:33:19,305 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:33:19,306 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:38:23,073 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:38:23,074 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:38:23,075 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:38:23,076 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:38:42,644 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:38:42,644 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:38:42,645 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:38:42,646 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-10 23:48:53,032 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:48:53,033 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-10 23:48:53,034 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-10 23:48:53,034 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:01:58,279 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:01:58,280 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:01:58,281 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:01:58,281 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:09:56,856 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:09:56,857 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:09:56,858 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:09:56,859 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:14:09,333 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:14:09,333 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:14:09,334 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:14:09,335 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:15:47,032 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:15:47,033 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:15:47,034 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:15:47,035 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:19:27,126 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:19:27,127 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:19:27,129 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:19:27,130 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:20:35,902 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:20:35,903 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:20:35,905 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:20:35,906 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:23:31,892 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:23:31,893 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:23:31,894 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:23:31,894 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources
+2022-05-11 00:27:59,124 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:27:59,125 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\main\resources
+2022-05-11 00:27:59,126 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 00:27:59,127 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ODPaymentServiceElectroGrid\ElectroGrid_G160_ODPaymentService\src\test\resources

@@ -1,7 +1,3 @@
-/**
- *
- */
- 
  $(document).ready(function() 
 { 
 if ($("#alertSuccess").text().trim() == ""){ 
@@ -69,7 +65,7 @@ if (status == "success")
  $("#alertError").text("Unknown error while saving.."); 
  $("#alertError").show(); 
  } 
- 14
+
  $("#hidOdpsIDSave").val(""); 
  $("#formOdps")[0].reset(); 
 }
@@ -77,7 +73,7 @@ if (status == "success")
 // UPDATE==========================================
 $(document).on("click", ".btnUpdate", function(event) 
 { 
- $("#hidOdpsIDSave").val($(this).closest("tr").data("ODPaymentID")); 
+ $("#hidOdpsIDSave").val($(this).data("ODPaymentid")); 
  $("#ODCode").val($(this).closest("tr").find('td:eq(0)').text()); 
  $("#dueAmount").val($(this).closest("tr").find('td:eq(1)').text()); 
  $("#dueMonthsNo").val($(this).closest("tr").find('td:eq(2)').text()); 
@@ -86,21 +82,24 @@ $(document).on("click", ".btnUpdate", function(event)
  $("#IsSuspend").val($(this).closest("tr").find('td:eq(5)').text()); 
 }); 
 
-// DELETE
+// DELETE 
 $(document).on("click", ".btnRemove", function(event) 
 { 
+	var pk = $('#del').attr('ODPaymentid');
  $.ajax( 
  { 
  url : "ODPaymentAPI", 
  type : "DELETE", 
- data : "ODPaymentID=" + $(this).data("odPaymentID"),
+ data : "ODPaymentID=" + $('#del').data('ODPaymentid'),
  dataType : "text", 
  complete : function(response, status) 
  { 
  onODPaymentsDeleteComplete(response.responseText, status); 
  } 
  }); 
+ console.log(pk);
 });
+
 
 
 function onODPaymentsDeleteComplete(response, status) 
@@ -128,7 +127,6 @@ if (status == "success")
  $("#alertError").show(); 
  } 
 }
-
 
 
 

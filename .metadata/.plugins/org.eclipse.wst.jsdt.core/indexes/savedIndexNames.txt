@@ -2,8 +2,6 @@ INDEX VERSION 1.4+D:\ODPaymentServiceElectroGrid\.metadata\.plugins\org.eclipse.
 2072414534.index
 2961848300.index
 1968147801.index
-2528190353.index
 3825695427.index
 2453628719.index
-2528190353.index
 179428733.index

@@ -94,7 +94,7 @@ public class ODPaymentAPI extends HttpServlet {
 	 */
 	protected void doDelete(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		       Map paras = getParasMap(request); 
-		       String output = ODPObj.deleteODPayment(paras.get("odPaymentID").toString()); 
+		       String output = ODPObj.deleteODPayment(paras.get("ODPaymentID").toString()); 
 		       response.getWriter().write(output); 	
 	}
 

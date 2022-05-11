@@ -69,3 +69,7 @@
 0:0:0:0:0:0:0:1 - - [11/May/2022:11:19:40 +0530] "DELETE /ElectroGrid_G160_ODPaymentService/ODPaymentAPI HTTP/1.1" 200 5610
 0:0:0:0:0:0:0:1 - - [11/May/2022:11:19:42 +0530] "DELETE /ElectroGrid_G160_ODPaymentService/ODPaymentAPI HTTP/1.1" 200 5284
 0:0:0:0:0:0:0:1 - - [11/May/2022:11:19:46 +0530] "DELETE /ElectroGrid_G160_ODPaymentService/ODPaymentAPI HTTP/1.1" 200 4959
+0:0:0:0:0:0:0:1 - - [11/May/2022:11:37:20 +0530] "DELETE /ElectroGrid_G160_ODPaymentService/ODPaymentAPI HTTP/1.1" 200 4618
+0:0:0:0:0:0:0:1 - - [11/May/2022:11:37:25 +0530] "GET /ElectroGrid_G160_ODPaymentService/ODPayment.jsp HTTP/1.1" 200 6576
+0:0:0:0:0:0:0:1 - - [11/May/2022:11:37:25 +0530] "GET /ElectroGrid_G160_ODPaymentService/Components/ODPayment.js HTTP/1.1" 200 4449
+0:0:0:0:0:0:0:1 - - [11/May/2022:11:37:26 +0530] "GET /ElectroGrid_G160_ODPaymentService/ODPayment.jsp HTTP/1.1" 200 6576

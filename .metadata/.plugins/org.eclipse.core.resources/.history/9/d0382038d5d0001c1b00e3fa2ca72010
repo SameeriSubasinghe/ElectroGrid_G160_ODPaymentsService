@@ -73,7 +73,7 @@ if (status == "success")
 // UPDATE==========================================
 $(document).on("click", ".btnUpdate", function(event) 
 { 
- $("#hidOdpsIDSave").val($(this).data("odpaymentid")); 
+ $("#hidOdpsIDSave").val($(this).data("ODPaymentid")); 
  $("#ODCode").val($(this).closest("tr").find('td:eq(0)').text()); 
  $("#dueAmount").val($(this).closest("tr").find('td:eq(1)').text()); 
  $("#dueMonthsNo").val($(this).closest("tr").find('td:eq(2)').text()); 
@@ -82,21 +82,25 @@ $(document).on("click", ".btnUpdate", function(event)
  $("#IsSuspend").val($(this).closest("tr").find('td:eq(5)').text()); 
 }); 
 
-
+// DELETE 
+/*
 $(document).on("click", ".btnRemove", function(event) 
 { 
+	var pk = $('#del').attr('ODPaymentid');
  $.ajax( 
  { 
  url : "ODPaymentAPI", 
  type : "DELETE", 
- data : "ODPaymentID=" + $(this).data("odpaymentid"),
+ data : "ODPaymentID=" + $('#del').data('ODPaymentid'),
  dataType : "text", 
  complete : function(response, status) 
  { 
  onODPaymentsDeleteComplete(response.responseText, status); 
  } 
  }); 
+ console.log(pk);
 });
+*/
 
 
 function onODPaymentsDeleteComplete(response, status) 

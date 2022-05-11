@@ -109,9 +109,9 @@ public class ODPayment {
 	 // buttons
 	 
 	 output += "<td><input name='btnUpdate' type='button' value='Update' "
-			 + "class='btnUpdate btn btn-secondary' data-odpaymentid='" + ODPaymentID + "'></td>"
+			 + "class='btnUpdate btn btn-secondary' data-ODPaymentid='" + ODPaymentID + "'></td>"
 			 + "<td><input name='btnRemove' type='button' value='Remove' "
-			 + "class='btnRemove btn btn-danger' data-odpaymentid='" + ODPaymentID + "'></td></tr>"; 
+			 + "class='btnRemove btn btn-danger' data-ODPaymentid='" + ODPaymentID + "'></td></tr>"; 
 			  
 	 } 
 	 con.close(); 

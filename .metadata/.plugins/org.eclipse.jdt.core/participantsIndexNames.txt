@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-D:\ODPaymentServiceElectroGrid\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2528190353.index
-\ElectroGrid_G160_ODPaymentService\src\main\java

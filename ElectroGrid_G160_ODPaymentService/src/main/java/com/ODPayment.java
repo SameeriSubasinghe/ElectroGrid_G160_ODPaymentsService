@@ -1,5 +1,6 @@
 package com;
 
+import java.nio.charset.StandardCharsets;
 import java.sql.*; 
 public class ODPayment { 
 	
@@ -132,6 +133,8 @@ public class ODPayment {
 	
 	public String updateODPayment(String ID, String overdueCode, String totDueAmount, String noDueMonths, String months, String accNo, String suspend){ 
 		 String output = ""; 
+		 String decodedmon = java.net.URLDecoder.decode(months); 
+		 
 		 try{ 
 		 Connection con = connect(); 
 		 if (con == null){
@@ -147,7 +150,7 @@ public class ODPayment {
 		 preparedStmt.setString(1, overdueCode);
 		 preparedStmt.setDouble(2, Double.parseDouble(totDueAmount));
 		 preparedStmt.setInt(3, Integer.parseInt(noDueMonths));
-		 preparedStmt.setString(4, months); 
+		 preparedStmt.setString(4, decodedmon); 
 		 preparedStmt.setString(5, accNo); 
 		 preparedStmt.setBoolean(6, Boolean.parseBoolean(suspend));
 		 preparedStmt.setInt(7, Integer.parseInt(ID));

@@ -13,7 +13,7 @@ pageEncoding="ISO-8859-1"%>
 </head>
 
 <body> 
-<div class="container"><div class="row"><div class="col-6"> 
+<div class="container"><div class="row"><div class="col-md-"> 
        <h1>Overdue Payments and Service Suspension</h1>
               <form id="formOdps" name="formOdps"> 
               Overdue Payment Code: 
@@ -32,10 +32,10 @@ pageEncoding="ISO-8859-1"%>
               <input id="accountNo" name="accountNo" type="text" class="form-control form-control-sm">
               <br>
               Suspended
-              <input id="IsSuspend" name="IsSuspend" type="radio" class="form-control form-control-sm">
+              <input id="IsSuspend1" name="IsSuspend" type="radio" class="form-control form-control-sm">
               <br>
               Not Suspended
-              <input id="IsSuspend" name="IsSuspend" type="radio" class="form-control form-control-sm">
+              <input id="IsSuspend2" name="IsSuspend" type="radio" class="form-control form-control-sm">
               <br>
               
               

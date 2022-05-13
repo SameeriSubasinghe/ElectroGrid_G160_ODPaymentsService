@@ -77,10 +77,18 @@ $(document).on("click", ".btnUpdate", function(event)
  $("#ODCode").val($(this).closest("tr").find('td:eq(0)').text()); 
  $("#dueAmount").val($(this).closest("tr").find('td:eq(1)').text()); 
  $("#dueMonthsNo").val($(this).closest("tr").find('td:eq(2)').text()); 
- $("#dueMonths").val($(this).closest("tr").find('td:eq(3)').text()); 
- $("#accountNo").val($(this).closest("tr").find('td:eq(4)').text()); 
- $("#IsSuspend").val($(this).closest("tr").find('td:eq(5)').text()); 
-}); 
+ $("#dueMonths").val((decodeURI($(this).closest("tr").find('td:eq(3)').text())));
+ $("#accountNo").val($(this).closest("tr").find('td:eq(4)').text());
+// $("#IsSuspend1").prop("checked", true);
+  var val = $(this).closest("tr").find('td:eq(5)').text();
+if(val == "true"){
+	$("#IsSuspend1").prop("checked", true);
+}else{
+	$("#IsSuspend2").prop("checked", true);
+}
+//$("#IsSuspend").val($(this).closest("tr").find('td:eq(5)').text()); 
+ 
+ }); 
 
 
 $(document).on("click", ".btnRemove", function(event) 
